@@ -1,5 +1,7 @@
 ## GitHub Docs <!-- omit in toc -->
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7163ec772eba453b8f484d4358b4dc69)](https://app.codacy.com/gh/iggy06/docs?utm_source=github.com&utm_medium=referral&utm_content=iggy06/docs&utm_campaign=Badge_Grade_Settings)
+
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
 GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
